@@ -14,4 +14,4 @@ genvm-lint check contracts/GridBatteryReplay.py
 python -m pytest tests -q
 ```
 
-StudioNet deployment pending.
+[StudioNet contract](https://explorer-studio.genlayer.com/address/0xFC3FAEd494F4FF9cd216629D04e593fE5DC75C7B) · [Live proofs](LIVE_PROOFS.md) · [Submission text](SUBMISSION.md)
